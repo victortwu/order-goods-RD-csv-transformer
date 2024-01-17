@@ -7,5 +7,9 @@
     "test": "test"
   },
   "author": "Victor Twu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "uuid": "^9.0.1"
+  }
 }
