@@ -1,1 +1,4 @@
 node_modules
+*.csv
+output.json
+outputWithNames.json

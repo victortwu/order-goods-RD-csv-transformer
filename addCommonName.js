@@ -1,6 +1,8 @@
 const fs = require("fs");
 const outputJson = require("./output.json");
 
+// Must run node index first to create output.json file
+
 // prettier-ignore
 const nameMappings = {
     "PD TOMATO ROMA XL": "Tomatoes",
